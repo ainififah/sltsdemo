@@ -26,7 +26,7 @@ if(x=="2"){xxx="11/artikel-2.html"}
 if(x=="3"){xxx="11/artikel-3.html"}
 if(x=="4"){xxx="11/artikel-4.html"}
 if(x=="5"){xxx="11/artikel-5.html"}
-if(x=="6"){xxx="11/artikel-6.html"}a_to_ve[i].href="http://sltsdemo.blogspot.com/2017/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="6"){xxx="11/artikel-6.html"}a_to_ve[i].href="https://sltsdemo.blogspot.com/2017/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
